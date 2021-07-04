@@ -1,2 +1,2 @@
 # STONKSMASTER
-stock price prediction
+stock price prediction using machine learning algorithm like linear regression
